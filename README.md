@@ -1,4 +1,4 @@
-# Instrucciones para Utilizar los Datos
+# Instrucciones para antes de ejecutar el código
 
 Este repositorio contiene archivos CSV comprimidos en la carpeta `Datos`. Sigue estos pasos para acceder a los datos:
 
